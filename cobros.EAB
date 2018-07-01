@@ -1,0 +1,9 @@
+<BranchVCSpec>
+	<PkgGUID>{94EFAE14-9739-438e-8623-AC612A01AB00}</PkgGUID>
+	<XMLPath>eaA\AC612A01AB00.xml</XMLPath>
+	<Config>
+		<GUID>cobros</GUID>
+		<LocalPath>%cobros%</LocalPath>
+		<Type>2</Type>
+	</Config>
+</BranchVCSpec>

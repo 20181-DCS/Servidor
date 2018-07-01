@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("1.1.2.1:1", "", "Model Compras", "EARoot/EA1/EA1/EA2/EA1/EA22.htm", "175.png", "18", "0", "", "Logical diagram0","{DFC4F114-5D58-46ee-81CE-BEC358DD6040}");
+tocTab[tocTab.length] = new Array("1.1.2.1:2", "", "Model", "EARoot/EA1/EA1/EA2/EA1/EA26.htm", "5.png", "27", "0", "", "Class0","{8D8247F1-7B0E-4e24-953C-ADF058944ECB}");
+tocTab[tocTab.length] = new Array("1.1.2.1.1", "", "django.db.Models", "EARoot/EA1/EA1/EA2/EA1/EA25.htm", "4.png", "", "", "{92BB2BE6-33FF-4064-9BC3-51EFD832A143}", "Package");

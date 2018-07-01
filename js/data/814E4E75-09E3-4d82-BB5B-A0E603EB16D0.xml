@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("1.1.2:1", "", "Models.py", "EARoot/EA1/EA1/EA2/EA14.htm", "175.png", "11", "0", "", "Logical diagram0","{3FB159C3-22B6-4afa-B4F0-34F4463E008F}");
+tocTab[tocTab.length] = new Array("1.1.2:2", "", "Cliente", "EARoot/EA1/EA1/EA2/EA16.htm", "5.png", "18", "0", "", "Class0","{DBF9D004-8032-46fa-B21C-60A5419A4EC9}");
+tocTab[tocTab.length] = new Array("1.1.2:3", "", "Compras", "EARoot/EA1/EA1/EA2/EA17.htm", "5.png", "16", "0", "", "Class0","{6B4A5863-C8DC-4a09-8F48-2A6A1CF40407}");
+tocTab[tocTab.length] = new Array("1.1.2:4", "", "Comprobante", "EARoot/EA1/EA1/EA2/EA18.htm", "5.png", "24", "0", "", "Class0","{98F79F41-D3AF-468c-8416-B53676746A6D}");
+tocTab[tocTab.length] = new Array("1.1.2:5", "", "Producto", "EARoot/EA1/EA1/EA2/EA20.htm", "5.png", "17", "0", "", "Class0","{E12994D1-ED06-4218-A73C-0CCC4D3048DD}");
+tocTab[tocTab.length] = new Array("1.1.2:6", "", "«enumeration» Tipo", "EARoot/EA1/EA1/EA2/EA21.htm", "5.png", "22", "0", "", "Class0","{20AF814D-D885-407b-B8CA-F5DF27025CBD}");
+tocTab[tocTab.length] = new Array("1.1.2.1", "1", "Model Compras", "EARoot/EA1/EA1/EA2/EA19.htm", "4.png", "", "", "{6998A658-6253-4487-863D-E4121CF8CCB9}", "Package");

@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("2.2:1", "", "Servidor", "EARoot/EA2/EA2/EA40.htm", "175.png", "3", "0", "", "Logical diagram0","{FD58EDAE-1A7A-4410-A42D-4E77720E6C91}");
+tocTab[tocTab.length] = new Array("2.2.1", "1", "Almacen", "EARoot/EA2/EA2/EA42.htm", "4.png", "", "", "{F9C51285-1DAD-4f4d-9CE8-08FFAFE6DFBF}", "Package");
+tocTab[tocTab.length] = new Array("2.2.2", "1", "Compras", "EARoot/EA2/EA2/EA43.htm", "4.png", "", "", "{58E276F1-6CC7-4e28-AEB6-06BE9B36238E}", "Package");
+tocTab[tocTab.length] = new Array("2.2.3", "1", "Tesorería", "EARoot/EA2/EA2/EA44.htm", "4.png", "", "", "{46D37EC7-B926-49ef-BB06-A0BD5FE59AEF}", "Package");
+tocTab[tocTab.length] = new Array("2.2.4", "1", "Ventas", "EARoot/EA2/EA2/EA45.htm", "4.png", "", "", "{C1ADBF2E-BF8F-499b-84C9-676A087F2576}", "Package");
